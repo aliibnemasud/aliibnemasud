@@ -5,16 +5,13 @@
 
 <p > <img src="https://komarev.com/ghpvc/?username=aliibnemasud&label=Profile%20views&color=0e75b6&style=flat" alt="aliibnemasud" /> </p>
 
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Online Bank Of BD](https://github.com/moazzemhossainnahid/online-bank-of-bd-client)
+- 🔭 I’m currently working on [eSchool Manager](https://github.com/aliibnemasud/eSchool-manager-client)
 
-- 👨‍💻 All of my projects are available at [https://ali-portfolio-7fac5.web.app](https://ali-portfolio-7fac5.web.app)
+- 👨‍💻 All of my projects are available at [Protfolio](https://portfolio.aliibne.com)
 
-- 📫 How to reach me **aliibnemasud@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/13KeU7C4ICvbAjc-PizE_hapdhUmbAz6O/view?usp=sharing](https://drive.google.com/file/d/13KeU7C4ICvbAjc-PizE_hapdhUmbAz6O/view?usp=sharing)
+- 📫 How to reach me **aliibnemasud@gmail.com** | 📄 Experiences [Resume](https://drive.google.com/file/d/13KeU7C4ICvbAjc-PizE_hapdhUmbAz6O/view?usp=sharing)
 
 - ⚡ Fun fact **I love to do coding and explore things**
 
