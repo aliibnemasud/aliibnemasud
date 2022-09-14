@@ -6,13 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [eSchool Manager] (https://github.com/aliibnemasud/eSchool-manager-client)
+🔭currently working on [eSchool-Manager](https://github.com/aliibnemasud/eSchool-manager-client) || [Protfolio](https://portfolio.aliibne.com)
 
-- 👨‍💻 All of my projects are available at [Protfolio](https://portfolio.aliibne.com)
+📫 Reach me **aliibnemasud@gmail.com** | 📄 Experiences [Resume](https://drive.google.com/file/d/13KeU7C4ICvbAjc-PizE_hapdhUmbAz6O/view?usp=sharing)
 
-- 📫 How to reach me **aliibnemasud@gmail.com** | 📄 Experiences [Resume](https://drive.google.com/file/d/13KeU7C4ICvbAjc-PizE_hapdhUmbAz6O/view?usp=sharing)
-
-- ⚡ Fun fact **I love to do coding and explore things**
+⚡ Fun fact **I love to do coding and explore things**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
