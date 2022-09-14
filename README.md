@@ -3,8 +3,10 @@
 <h1>Hi 👋, I'm Ali Ibne Masud</h1>
 <h3>A passionate frontend developer from Bangladesh</h3>
 <p > <img src="https://komarev.com/ghpvc/?username=aliibnemasud&label=Profile%20views&color=0e75b6&style=flat" alt="aliibnemasud" /> </p>
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-- 🔭 I’m currently working on [eSchool Manager](https://github.com/aliibnemasud/eSchool-manager-client)
+
+- 🔭 I’m currently working on [eSchool Manager] (https://github.com/aliibnemasud/eSchool-manager-client)
 
 - 👨‍💻 All of my projects are available at [Protfolio](https://portfolio.aliibne.com)
 
