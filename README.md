@@ -1,8 +1,9 @@
 <p > <img src="https://komarev.com/ghpvc/?username=aliibnemasud&label=Profile%20views&color=0e75b6&style=flat" alt="aliibnemasud" /> </p>
+<img src="https://i.ibb.co/sHGm9hG/Likdin-Cover.jpg" alt="" /> </a > <p align="center">
 <h3> Hi there 👋  I'm Ali Ibne Masud </h3>
 <p>A passionate frontend developer from Bangladesh</p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<img src="https://i.ibb.co/sHGm9hG/Likdin-Cover.jpg" alt="" /> </a > <p align="center">
+
 
 🔭currently working on [eSchool-Manager](https://github.com/aliibnemasud/eSchool-manager-client) || [Protfolio](https://portfolio.aliibne.com)
 
