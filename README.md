@@ -4,6 +4,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<img src="https://i.ibb.co/sHGm9hG/Likdin-Cover.jpg" alt="" /> </a > <p align="center">
+
 🔭currently working on [eSchool-Manager](https://github.com/aliibnemasud/eSchool-manager-client) || [Protfolio](https://portfolio.aliibne.com)
 
 📫 Reach me **aliibnemasud@gmail.com** | 📄 Experiences [Resume](https://drive.google.com/file/d/13KeU7C4ICvbAjc-PizE_hapdhUmbAz6O/view?usp=sharing)
