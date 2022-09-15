@@ -2,8 +2,6 @@
 <h3> Hi there 👋  I'm Ali Ibne Masud </h3>
 <h6>A passionate frontend developer from Bangladesh</h6>
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/aa4e80f10b63d3b7daf2a58a0ecbb1110875eb2d36f5af5fd13b567760516473/68747470733a2f2f692e6962622e636f2f6d3835304232362f313635353731363937363130382e6a7067"><img src="https://camo.githubusercontent.com/aa4e80f10b63d3b7daf2a58a0ecbb1110875eb2d36f5af5fd13b567760516473/68747470733a2f2f692e6962622e636f2f6d3835304232362f313635353731363937363130382e6a7067" alt="" data-canonical-src="https://i.ibb.co/sHGm9hG/Likdin-Cover.jpg" style="max-width: 100%;"></a>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 🔭currently working on [eSchool-Manager](https://github.com/aliibnemasud/eSchool-manager-client) || [Protfolio](https://portfolio.aliibne.com)
