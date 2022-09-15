@@ -2,6 +2,8 @@
 <h3> Hi there 👋  I'm Ali Ibne Masud </h3>
 <h6>A passionate frontend developer from Bangladesh</h6>
 
+<img href="https://i.ibb.co/sHGm9hG/Likdin-Cover.jpg"></img>
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 🔭currently working on [eSchool-Manager](https://github.com/aliibnemasud/eSchool-manager-client) || [Protfolio](https://portfolio.aliibne.com)
