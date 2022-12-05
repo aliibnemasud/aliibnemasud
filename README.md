@@ -4,7 +4,7 @@
 <p>A passionate MERN Stack Developer and UI/UX Designer located in Bangladesh. Looking for working aroud the world.</p>
 
 
-🔭currently working on [eSchool-Manager](https://github.com/aliibnemasud/eSchool-manager-client) || [Protfolio](https://portfolio.aliibne.com)
+🔭currently working on [Think Evolve Consulting](https://www.thinkevolveconsulting.com/) || [Protfolio](https://portfolio.aliibne.com)
 
 📫 Reach me **aliibnemasud@gmail.com** | 📄 Experiences [Resume](https://drive.google.com/file/d/13KeU7C4ICvbAjc-PizE_hapdhUmbAz6O/view?usp=sharing)
 
