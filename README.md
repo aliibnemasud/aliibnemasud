@@ -4,7 +4,7 @@
 <p>A passionate Full Stack Developer located in Bangladesh. I have had the privilege of collaborating remotely with three esteemed companies, contributing my expertise as a JavaScript Developer, Full Stack Developer, and Frontend Developer. These experiences have not only honed my technical skills but also enriched my ability to effectively communicate and collaborate in diverse professional environments. Looking for working aroud the world. </p>
 
 
-🔭currently working as a JavaScript Developer [Pharmawow](https://pharmawow.com)
+🔭 Currently working as a JavaScript Developer [Pharmawow](https://pharmawow.com) <br/>
 🎨 [Protfolio](https://portfolio.aliibne.com)
 📫 Reach me **aliibnemasud@gmail.com**
 🗨️ Whatsapp **+8801785748248**
