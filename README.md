@@ -5,9 +5,9 @@
 
 
 🔭 Currently working as a JavaScript Developer [Pharmawow](https://pharmawow.com) <br/>
-🎨 [Protfolio](https://portfolio.aliibne.com)
-📫 Reach me **aliibnemasud@gmail.com**
-🗨️ Whatsapp **+8801785748248**
+🎨 [Protfolio](https://portfolio.aliibne.com) <br/>
+📫 Reach me **aliibnemasud@gmail.com** <br/>
+🗨️ Whatsapp **+8801785748248** <br/>
 📝 Experiences [Resume](https://drive.google.com/file/d/1_LICYyQ87tI-xyzKWPGwR9sXMwaE-ZOy/view?usp=sharing)
 
 ⚡ Fun fact **I love to do coding and explore new things**
