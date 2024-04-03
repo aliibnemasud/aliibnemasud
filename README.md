@@ -1,15 +1,16 @@
 <img src="https://i.ibb.co/sHGm9hG/Likdin-Cover.jpg" alt="" /> </a > <p align="center">
 <p > <img src="https://komarev.com/ghpvc/?username=aliibnemasud&label=Profile%20views&color=0e75b6&style=flat" alt="aliibnemasud" /> </p>
 <h3> Hi there 👋  I'm Ali Ibne Masud </h3>
-<p>A passionate MERN Stack Developer and UI/UX Designer located in Bangladesh. Looking for working aroud the world.</p>
+<p>A passionate Full Stack Developer located in Bangladesh. I have had the privilege of collaborating remotely with three esteemed companies, contributing my expertise as a JavaScript Developer, Full Stack Developer, and Frontend Developer. These experiences have not only honed my technical skills but also enriched my ability to effectively communicate and collaborate in diverse professional environments. Looking for working aroud the world. </p>
 
 
-🔭currently working as a JavaScript Developer [Think Evolve Consultancy](https://www.thinkevolveconsulting.com/)
+🔭currently working as a JavaScript Developer [Pharmawow](https://pharmawow.com)
 🎨 [Protfolio](https://portfolio.aliibne.com)
 📫 Reach me **aliibnemasud@gmail.com**
-📝 Experiences [Resume](https://drive.google.com/file/d/13KeU7C4ICvbAjc-PizE_hapdhUmbAz6O/view?usp=sharing)
+🗨️ Whatsapp **+8801785748248**
+📝 Experiences [Resume](https://drive.google.com/file/d/1_LICYyQ87tI-xyzKWPGwR9sXMwaE-ZOy/view?usp=sharing)
 
-⚡ Fun fact **I love to do coding and explore things**
+⚡ Fun fact **I love to do coding and explore new things**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
