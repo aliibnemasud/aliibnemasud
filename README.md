@@ -1,7 +1,7 @@
 <img src="https://i.ibb.co/sHGm9hG/Likdin-Cover.jpg" alt="" /> </a > <p align="center">
 <p > <img src="https://komarev.com/ghpvc/?username=aliibnemasud&label=Profile%20views&color=0e75b6&style=flat" alt="aliibnemasud" /> </p>
 <h3> Hi there 👋  I'm Ali Ibne Masud </h3>
-<p>A passionate Full Stack Developer located in Bangladesh. I have had the privilege of collaborating remotely with three esteemed companies, contributing my expertise as a JavaScript Developer, Full Stack Developer, and Frontend Developer. These experiences have not only honed my technical skills but also enriched my ability to effectively communicate and collaborate in diverse professional environments. Looking for working aroud the world. </p>
+<p>A passionate Full Stack Developer located in Bangladesh. I have had the privilege of collaborating remotely with three esteemed companies, contributing my expertise as a JavaScript Developer, Full Stack Developer, and Frontend Developer. These experiences have not only honed my technical skills but also enriched my ability to effectively communicate and collaborate in diverse professional environments. Looking for working aroud the world... </p>
 
 
 🔭 Currently working as a JavaScript Developer [Pharmawow](https://pharmawow.com) <br/>
